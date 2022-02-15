@@ -1,8 +1,0 @@
-C:\Users\iremh\source\repos\exceptionHandlingPatika\exceptionHandlingPatika\bin\Debug\exceptionHandlingPatika.exe.config
-C:\Users\iremh\source\repos\exceptionHandlingPatika\exceptionHandlingPatika\bin\Debug\exceptionHandlingPatika.exe
-C:\Users\iremh\source\repos\exceptionHandlingPatika\exceptionHandlingPatika\bin\Debug\exceptionHandlingPatika.pdb
-C:\Users\iremh\source\repos\exceptionHandlingPatika\exceptionHandlingPatika\obj\Debug\exceptionHandlingPatika.csproj.AssemblyReference.cache
-C:\Users\iremh\source\repos\exceptionHandlingPatika\exceptionHandlingPatika\obj\Debug\exceptionHandlingPatika.csproj.SuggestedBindingRedirects.cache
-C:\Users\iremh\source\repos\exceptionHandlingPatika\exceptionHandlingPatika\obj\Debug\exceptionHandlingPatika.csproj.CoreCompileInputs.cache
-C:\Users\iremh\source\repos\exceptionHandlingPatika\exceptionHandlingPatika\obj\Debug\exceptionHandlingPatika.exe
-C:\Users\iremh\source\repos\exceptionHandlingPatika\exceptionHandlingPatika\obj\Debug\exceptionHandlingPatika.pdb
